@@ -17,7 +17,7 @@ Stripe account (for payment integration)
 
 Setup Instructions
 
-Clone the repository:git clone https://github.com/your-username/clothing-store-ecommerce.git
+Clone the repository:git clone https://github.com/SansikaDev/clothing-store-ecommerce
 cd clothing-store-ecommerce
 
 Follow the setup instructions in backend/README.md and frontend/README.md.
